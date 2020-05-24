@@ -1,10 +1,5 @@
 # Haskell Assignment
 
-[Assignment 7] (https://advprog.auc-computing.nl/assignment7.html) for Advanced Programming
-
-
-
-
 ###Functions
 All functions can be found in the file Functions.hs.
 
